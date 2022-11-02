@@ -15,6 +15,7 @@ This is an overview of all the ready-to-use algorithms I've found to perform pea
 | [Tony Beltramelli detect_peaks](#tony-beltramelli-detect_peaks) | Single function<br>Depends on Numpy | Amplitude threshold | ✘ |
 | [mlpy.findpeaks_dist](#mlpyfindpeaks_dist) | Included in mlpy<br>Depends on Scipy and GSL | Minimum distance | ✘ |
 | [mlpy.findpeaks_win](#mlpyfindpeaks_win) | Single function<br>Depends on Scipy and GSL | Sliding window width | ✘ |
+| https://pypi.org/project/detecta/ | https://github.com/demotu/detecta |https://nbviewer.org/github/demotu/BMC/blob/master/notebooks/DetectPeaks.ipynb |
 
 ## How to make your choice?
 
